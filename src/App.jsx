@@ -18,6 +18,7 @@ function App() {
         <Route path='/otp' element={<Otp></Otp>}></Route>
         <Route path='/dashboard' element={<Dashboard></Dashboard>}></Route>
       </Routes>
+     
 
     </div>
   )
