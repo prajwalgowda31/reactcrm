@@ -1,0 +1,15 @@
+export const agentsData = [
+  { agent_name: "Sowmya", agent_id: "64bfd669-4f3d-43b7-a784-f6934bf2743d" },
+  { agent_name: "Indudhara M G", agent_id: "77455229-3d76-4685-89b1-652c019722ec" },
+  { agent_name: "Vignesh", agent_id: "83033ac5-d028-4093-9a81-8c5e2455e1ca" },
+  { agent_name: "TEST", agent_id: "a9cc0a76-bc95-4d11-bfc0-8971e9fc17fd" },
+  { agent_name: "Haqdarshakagent", agent_id: "0bbdf626-c7b4-4166-86ea-23c6f70f95ab" },
+  { agent_name: "Pavithra", agent_id: "fa2b2c8e-70bd-40bb-aefd-2603a293f078" },
+  { agent_name: "Priyanka", agent_id: "7b541fab-6da0-4693-b565-f62e81a5e824" },
+  { agent_name: "Ganesh", agent_id: "ca710dd5-791b-4046-99a6-aeb0d9ca67f7" },
+  { agent_name: "Jayanth", agent_id: "79c17deb-05b5-4abc-a02a-0e57c0ad12c2" },
+  { agent_name: "Suraj", agent_id: "5141791b-bd51-4669-b3ba-b95a53cd9bd5" },
+  { agent_name: "Ravi", agent_id: "ff481a7a-dc1f-404c-b375-45dd1baa81d7" },
+  { agent_name: "Indudhara", agent_id: "ed9068b4-225e-42e2-b063-a27e0d623a54" },
+  { agent_name: "Savi Sagara", agent_id: "3d670a61-ad33-498e-835b-b289eaa896d7" },
+];

@@ -1,11 +1,12 @@
-import React from 'react';
+import React from "react";
 
 const NSDLSubTabs = ({ activeNsdlSubTab, setActiveNsdlSubTab }) => {
   const tabs = [
     { id: "moneyAdded", label: "Money Added" },
     { id: "instakits", label: "NSDL Instakits" },
     { id: "allocation", label: "Allocation Table" },
-    { id: "assignPB", label: "Assign PB Instakits" },
+    { id: "assignKitToAgents", label: "Assign Kits to Agents" },
+    { id: "assignPB", label: "Re-Assign PB Instakits" },
     { id: "account", label: "Account Statement" },
     { id: "invoice", label: "Generate Invoice" },
     { id: "summary", label: "Allocation Summary" },
